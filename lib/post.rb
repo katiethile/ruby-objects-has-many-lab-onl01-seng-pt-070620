@@ -8,8 +8,7 @@ end
 
   def author_name
     if author
-      author
-  self.author.name
+    author.name
     end
 end 
 
