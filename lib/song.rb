@@ -16,3 +16,4 @@ end
   self.artist.name
     end
 end 
+end 
