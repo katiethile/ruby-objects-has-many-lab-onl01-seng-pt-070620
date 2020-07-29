@@ -8,7 +8,7 @@ end
 
   def author_name
     if author
-      author
+      author_name
     end
   end 
 
