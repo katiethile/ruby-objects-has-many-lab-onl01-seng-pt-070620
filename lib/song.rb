@@ -12,8 +12,7 @@ end
   
    def artist_name
     if artist
-      artist
-  self.artist.name
+    artist.name
     end
 end 
 end 
