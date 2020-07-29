@@ -8,9 +8,8 @@ end
 
   def author_name
     if author
-      #self.author.name
-  end
-end 
+      author
+    end 
 
  def self.all 
     @@all 
