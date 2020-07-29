@@ -9,6 +9,7 @@ end
   def author_name
     if self.author.name
   end
+end 
 
  def self.all 
     @@all 
